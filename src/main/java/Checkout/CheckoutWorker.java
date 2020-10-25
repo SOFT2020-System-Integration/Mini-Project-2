@@ -1,11 +1,11 @@
-package chargecard;
+package Checkout;
 
 import java.util.logging.Logger;
 import org.camunda.bpm.client.ExternalTaskClient;
 
-public class ChargeCardWorker
+public class CheckoutWorker
 {
-    private final static Logger LOGGER = Logger.getLogger(ChargeCardWorker.class.getName());
+    private final static Logger LOGGER = Logger.getLogger(CheckoutWorker.class.getName());
 
     public static void main(String[] args)
     {

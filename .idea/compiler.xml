@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ExTask" />
+        <module name="Mini-Project-2" />
         <module name="P9-BPM-ExTask" />
         <module name="P9-BPMN-External-Task" />
         <module name="Mini Project 2 Business Process Modelling and Automation" />

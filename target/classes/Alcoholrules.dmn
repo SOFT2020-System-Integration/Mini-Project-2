@@ -24,14 +24,6 @@
           <text>false</text>
         </outputEntry>
       </rule>
-      <rule id="DecisionRule_0i2ayvv">
-        <inputEntry id="UnaryTests_1nai79e">
-          <text></text>
-        </inputEntry>
-        <outputEntry id="LiteralExpression_1gtldl3">
-          <text></text>
-        </outputEntry>
-      </rule>
     </decisionTable>
   </decision>
   <dmndi:DMNDI>
