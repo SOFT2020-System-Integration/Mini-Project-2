@@ -25,6 +25,10 @@ public class CheckoutWorker
                     String item = (String) externalTask.getVariable("item");
                     Long amount = (Long) externalTask.getVariable("amount");
                     Long age = (Long) externalTask.getVariable("age");
+
+                    if(age == null) {
+                        LOGGER.info("Charging credit card with an amount of '" + amount + "'€ for the item '");
+                    }
                     LOGGER.info("Charging credit card with an amount of '" + amount + "'€ for the item '" + item + " Age:" + age);
 
                     // Complete the task
