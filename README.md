@@ -1,4 +1,4 @@
-# Mini-Project-3   
+# Mini-Project-2  
 ###   by Andeas Jørgensen, Jonatan Bakke, Jonas Hein & Thomas  Ebsen
 [Assignment Link](MP2-BPMN.pdf)  
 
