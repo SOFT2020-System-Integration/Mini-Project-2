@@ -1,4 +1,4 @@
-package Checkout;
+package checkout;
 
 import java.util.logging.Logger;
 import org.camunda.bpm.client.ExternalTaskClient;

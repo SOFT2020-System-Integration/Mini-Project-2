@@ -10,7 +10,7 @@
       <output id="Output_1" name="validated" typeRef="boolean" biodi:width="205" />
       <rule id="DecisionRule_06pw62j">
         <inputEntry id="UnaryTests_18ztz2l">
-          <text>contains(item, "alchohol")</text>
+          <text>contains(item, "alcohol")</text>
         </inputEntry>
         <outputEntry id="LiteralExpression_0t537h2">
           <text>true</text>
@@ -18,7 +18,7 @@
       </rule>
       <rule id="DecisionRule_12xbqvu">
         <inputEntry id="UnaryTests_1afao3v">
-          <text>not(contains(item, "alchohol"))</text>
+          <text>not(contains(item, "alcohol"))</text>
         </inputEntry>
         <outputEntry id="LiteralExpression_0antwda">
           <text>false</text>
