@@ -1,6 +1,9 @@
 # Mini-Project-2  
-###   by Andeas Jørgensen, Jonatan Bakke, Jonas Hein & Thomas  Ebsen
-[Assignment Link](MP2-BPMN.pdf)  
+- Andeas Jørgensen - https://github.com/DDomino
+- Jonatan Bakke https://github.com/JonatanMagnusBakke
+- Jonas Hein - https://github.com/Zenzus
+- Thomas Ebsen - https://github.com/Srax   
+- [Assignment Link](MP2-BPMN.pdf)  
 
 ## Info
 The business process is a very simple "Verify customers age before purchase" process, where the system looks at the items name.
